@@ -4,6 +4,11 @@
         "status": 1
     },
     {
+        "image": "assets/images/transformation_images/trans_Nikita.jpg",
+        "description": "Hi I am Nikita Aggarwal  I must say Ms Kirti is a  wonderful nutritionist . Very focussed and vast knowledge about her work and her diets are do able . She is also in tune with the medical world ,our health problems and how to overcome it by having a healthy diet. Although I was a little bit off track while following her diet. But still I lost 4 kgs in 1.5 month. Moreover inch difference in my body was good. Highly recommended ❤️",
+        "status": 1
+    },
+    {
         "image": "assets/images/transformation_images/trans_Murli.jpg",
         "description": "MR Murli, fatty liver grade 1, high lipid level and diaetic. I joined Dt kirti Falwaria and just with the help of her diet , I not only reduced 10kgs but also improved my sugar  and cholesterol levels. I am glad I met her . 👍",
         "status": 1
@@ -57,10 +62,5 @@
         "image": "assets/images/transformation_images/trans_suresh_reddy2.jpg",
         "description": "",
         "status": 1
-    },
-    {
-        "image": "assets/images/transformation_images/trans_Nikita.jpg",
-        "description": "Hi I am Nikita Aggarwal  I must say Ms Kirti is a  wonderful nutritionist . Very focussed and vast knowledge about her work and her diets are do able . She is also in tune with the medical world ,our health problems and how to overcome it by having a healthy diet. Although I was a little bit off track while following her diet. But still I lost 4 kgs in 1.5 month. Moreover inch difference in my body was good. Highly recommended ❤️",
-        "status": 0
     }
 ]
